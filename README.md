@@ -3,4 +3,4 @@ Homework 09 - SQL
 
 ## Results
 
-![Result1](EmployeeSQL/ERD.svg)
+![Result1](EmployeeSQL/ERD.png)
